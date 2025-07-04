@@ -1,0 +1,29 @@
+Pseudo code for programming Rock Paper Scissors
+
+Setup:
+
+Create a list of choices: "rock", "paper", "scissors"
+Set the human’s score to 0
+Set the computer’s score to 0
+
+Repeat for 5 rounds-
+For each round:
+
+Ask the player for their choice (using prompt)
+Convert player’s choice to lowercase
+Have the computer randomly pick a choice
+use random number to pick “rock”, “paper”, or “scissors”
+Compare the two choices
+if same → it is a tie
+if human beats computer → human wins
+else → computer wins
+Increment the winner’s score
+Display the round result on the console
+
+After 5 rounds:
+
+Compare human and computer scores
+if human has more → human wins the game
+if computer has more → computer wins the game
+if equal → game is a tie
+Display the final result on the console
