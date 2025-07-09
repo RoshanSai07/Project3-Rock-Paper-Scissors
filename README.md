@@ -21,8 +21,6 @@ This is a simple Rock Paper Scissors game built with HTML, CSS, and JavaScript. 
 
 👉 [Play the game here](https://roshansai07.github.io/Project3-Rock-Paper-Scissors)
 
-_(replace the above link with your actual GitHub Pages link)_
-
 ## How to Play
 
 - Click Rock, Paper, or Scissors to make your move
